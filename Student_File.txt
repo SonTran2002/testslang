@@ -1,0 +1,5 @@
+20127310, Song, 7.0, Sai Gon, Bad
+20127614, son, 8.0, nghe an, good
+20127657, manh tu, 8.1, sai gon, mom chua
+5, teach, 8.9, lam dong, ok
+20127616, Son, 10.0, Lam Dong, excellent
