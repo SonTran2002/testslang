@@ -17,7 +17,7 @@ public class Read_File {
         int i = 0;
         while ((strCurrentLine = br.readLine()) != null) {
             Student s = new Student();
-            String s;
+
             String[] buffer = strCurrentLine.split(", ");
             s.setId(Integer.parseInt(buffer[0]));
             s.setName(buffer[1]);
